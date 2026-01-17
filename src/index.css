@@ -6,10 +6,6 @@
   body {
     @apply bg-background text-text-primary antialiased;
   }
-  
-  * {
-    @apply border-border;
-  }
 }
 
 @layer components {
